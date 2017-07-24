@@ -188,7 +188,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:140px;
+  width:375px;
   height:40px;
   background:inherit;
   background-color:rgba(22, 155, 213, 1);
@@ -201,9 +201,9 @@
 #u172 {
   border-width:0px;
   position:absolute;
-  left:126px;
-  top:403px;
-  width:140px;
+  left:438px;
+  top:624px;
+  width:375px;
   height:40px;
 }
 #u173 {
@@ -211,7 +211,7 @@
   position:absolute;
   left:2px;
   top:12px;
-  width:136px;
+  width:371px;
   word-wrap:break-word;
 }
 #u174_div {
@@ -232,8 +232,8 @@
 #u174 {
   border-width:0px;
   position:absolute;
-  left:438px;
-  top:624px;
+  left:8px;
+  top:623px;
   width:375px;
   height:40px;
 }
