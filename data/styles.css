@@ -7,11 +7,18 @@
   text-align:center;
   line-height:normal;
 }
+.box_1 {
+}
 .box_2 {
 }
 .box_3 {
 }
 ._图片 {
+}
+.placeholder {
+}
+.primary_button {
+  color:#FFFFFF;
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';

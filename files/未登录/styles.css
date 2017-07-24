@@ -488,3 +488,13 @@
   width:148px;
   word-wrap:break-word;
 }
+#u82 {
+  border-width:0px;
+  position:absolute;
+  left:43px;
+  top:528px;
+  width:308px;
+  height:298px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
